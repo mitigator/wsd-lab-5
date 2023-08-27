@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model href="Assignment4.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<Products>
+
+    <Product productID="P1">
+      <productName>Smartphone</productName>
+      <price>300.50</price>
+      <quantity>150</quantity>
+      <category>Electronics</category>
+    </Product>
+    <Product productID="P1">
+      <productName>Laptop</productName>
+      <price>200.50</price>
+      <quantity>15</quantity>
+      <category>Electronics</category>
+    </Product>
+
+    <Product productID="P2">
+      <productName>T-shirt</productName>
+      <price>15.99</price>
+      <quantity>20</quantity>
+      <category>Clothing</category>
+    </Product>
+    <Product productID="P2">
+      <productName>Shirt</productName>
+      <price>99.99</price>
+      <quantity>25</quantity>
+      <category>Clothing</category>
+    </Product>
+
+    <Product productID="P3">
+      <productName>C in Depth</productName>
+      <price>40.00</price>
+      <quantity>50</quantity>
+      <category>Books</category>
+    </Product>
+
+  </Products>
+  
